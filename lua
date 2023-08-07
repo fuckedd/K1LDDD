@@ -15,5 +15,4 @@ end
 -- Connect the onChatted function to player chat event
 game:GetService("Players").LocalPlayer.Chatted:Connect(onChatted)
 
--- Print a message to indicate the creator of the code
-print("Andrew Tate")
+
